@@ -20,4 +20,3 @@ This project is a simple User Management System built using HTML, CSS, JavaScrip
 1. Install XAMPP from [https://www.apachefriends.org/](https://www.apachefriends.org/).
 2. Open phpMyAdmin and create a database called `user_management`.
 3. Run the following SQL command to create the `users` table:
-
