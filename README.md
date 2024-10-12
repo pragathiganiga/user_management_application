@@ -35,6 +35,7 @@ This project is a simple User Management System built using HTML, CSS, JavaScrip
 
 ## File Structure
 user_management_app/
+
 ├── db.php                 # Database connection file
 ├── insert.php             # Handles insertion of user data
 ├── delete.php             # Handles deletion of user data
