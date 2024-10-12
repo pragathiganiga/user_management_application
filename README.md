@@ -30,3 +30,5 @@ This project is a simple User Management System built using HTML, CSS, JavaScrip
        email VARCHAR(100),
        address TEXT
    );
+4.Place the project folder in XAMPP’s htdocs directory.
+5.Open your browser and navigate to http://localhost/user_management_app/index.php.
